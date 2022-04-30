@@ -1,3 +1,3 @@
-# Open Source für das Internet der Dinge
+# Open Source Sensor Icons
 
-Dateien und Versionskontrolle zur Thesis
+Simple Sensor Icons I made for my Bachelor Thesis
